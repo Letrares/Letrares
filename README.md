@@ -1,4 +1,7 @@
-<title>Seja bem vindo! 👋</title>
+<h1>Seja bem vindo! 👋</h1><br>
+Estudante
+
+Sempre buscando aprimorar minhas habilidades e expandir meu conhecimento. 
 
 <!--
 **Letrares/Letrares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
