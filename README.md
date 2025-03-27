@@ -1,4 +1,4 @@
-Seja bem vindo! 👋
+<title>Seja bem vindo! 👋<title></title>
 
 <!--
 **Letrares/Letrares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
