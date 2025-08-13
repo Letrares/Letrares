@@ -1,7 +1,4 @@
-<h1><strong>🌱Leandro Dutra Soares</strong></h1><br>
-
-###
-
+<h1><strong>🌱Leandro Dutra Soares</strong></h1>
 Cursando Análise e Desenvolvimento de Sistemas
 
 ###
@@ -27,6 +24,6 @@ Sempre buscando aprimorar minhas habilidades, expandir meu conhecimento e achar 
   
   ###
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=letrares&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letrares&layout=compact&theme=dracula"/>
 
 </div>
