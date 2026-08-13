@@ -21,9 +21,4 @@ Sempre buscando aprimorar minhas habilidades, expandir meu conhecimento e achar 
 </div>
 
 <div align="left">
-  
-  ###
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letrares&layout=compact&theme=dracula"/>
-
 </div>
