@@ -62,16 +62,4 @@ My goal is to turn raw data into reliable, understandable, and actionable inform
   </tr>
 </table>
 
-## Currently Learning
-
-<div>
-  <img src="https://img.shields.io/badge/Lakehouse_Architecture-FF3621?style=flat&logo=databricks&logoColor=white" alt="Lakehouse Architecture"/>
-  <img src="https://img.shields.io/badge/Microsoft_Fabric_%26_OneLake-742774?style=flat" alt="Microsoft Fabric e OneLake"/>
-  <img src="https://img.shields.io/badge/Dimensional_Modeling-025E8C?style=flat" alt="Dimensional Modeling"/>
-  <img src="https://img.shields.io/badge/Power_BI_%26_DAX-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI e DAX"/>
-  <img src="https://img.shields.io/badge/Data_Storytelling-66C2A5?style=flat" alt="Data Storytelling"/>
-  <img src="https://img.shields.io/badge/Analytics_Engineering-3776AB?style=flat&logo=python&logoColor=white" alt="Analytics Engineering"/>
-</div>
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B6E99&height=120&section=footer" alt="Decorative footer"/>
